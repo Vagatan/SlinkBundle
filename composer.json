@@ -1,5 +1,5 @@
 {
-    "name" : "vagatan/slinkbundle",
+    "name" : "wip/slinkbundle",
     "description" : "A Slink Bundle",
     "type" : "symfony-bundle",
     "authors" : [{
@@ -16,10 +16,10 @@
     },
     "autoload" : {
         "psr-0" : {
-            "Vagatan\\SlinkBundle" : ""
+            "WIP\\SlinkBundle" : ""
         }
     },
-    "target-dir" : "Vagatan/SlinkBundle",
+    "target-dir" : "WIP/SlinkBundle",
     "repositories" : [{
     }],
     "extra" : {

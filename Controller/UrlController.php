@@ -28,7 +28,7 @@ class UrlController extends Controller {
     /**
      * Generate short URL
      * 
-     * @Route("/send", name="url_generate")
+     * @Route("/send", name="slink_bundle_url_generate")
      * @Method("POST")
      *
      * @param Request $request
