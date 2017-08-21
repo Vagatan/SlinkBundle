@@ -6,7 +6,7 @@ WOW!
 
 ### Installation:
 
-1. Add to composer.json
+1. Add to *composer.json*
 ```
     [...]
        "require" : {
@@ -20,14 +20,14 @@ WOW!
        [...]
 ```
 
-2. Run composer update
+2. Run ```composer update```
 
-3. Add to app/AppKernel.php:
+3. Add to *app/AppKernel.php*:
 ```
     new WIP\SlinkBundle\SlinkBundle(),
 ```
 
-4. Add to routing.yml
+4. Add to *routing.yml*
 ```
     slink:
         resource: "@SlinkBundle/Controller/"
@@ -35,6 +35,6 @@ WOW!
         prefix:   /
 ```
 
-5. From vendor/wip/slinkbundle/ folder WIP to your src folder
+5. From *vendor/wip/slinkbundle/* folder WIP to your *src* folder
 
-6. Run server, enter /url
+6. Run server, enter */url*
