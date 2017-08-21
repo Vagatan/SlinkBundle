@@ -1,5 +1,5 @@
 {
-    "name" : "vagatan/slinkbudle",
+    "name" : "vagatan/slinkbundle",
     "description" : "A Slink Bundle",
     "type" : "symfony-bundle",
     "authors" : [{
