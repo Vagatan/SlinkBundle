@@ -1,0 +1,30 @@
+{
+    "name" : "vagatan/slinkbudle",
+    "description" : "A Slink Bundle",
+    "type" : "symfony-bundle",
+    "authors" : [{
+        "name" : "vagatan",
+        "email" : "grzesiek.kozak@gmail.com"
+    }],
+    "keywords" : [
+        "slink bundle"
+    ],
+    "license" : [
+        "MIT"
+    ],
+    "require" : {
+    },
+    "autoload" : {
+        "psr-0" : {
+            "Vagatan\\SlinkBundle" : ""
+        }
+    },
+    "target-dir" : "Vagatan/SlinkBundle",
+    "repositories" : [{
+    }],
+    "extra" : {
+    "branch-alias" : {
+            "dev-master" : "master"
+        }
+    }
+}
