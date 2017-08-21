@@ -35,6 +35,6 @@ WOW!
         prefix:   /
 ```
 
-5. From *vendor/wip/slinkbundle/* folder WIP to your *src* folder
+5. From *vendor/wip/slinkbundle/* copy folder WIP to your *src* folder
 
 6. Run server, enter */url*
