@@ -1,4 +1,4 @@
-# SlinkBundle chalange
+# SlinkBundle challenge
 
 You can shorten your links now.
 
