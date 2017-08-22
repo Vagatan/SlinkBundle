@@ -38,3 +38,18 @@ WOW!
 5. From *vendor/wip/slinkbundle/* copy folder WIP to your *src* folder
 
 6. Run server, enter */url*
+
+### How it works
+
+Using POST send JSON data to */url/send*:
+    ``` 
+        {"urlToShorten": "your url"}
+    ```
+and get response:
+    ```
+        {"shortUrl": "your short url"}
+    ```
+
+### TO DO
+1. Tests
+2. Integration w model
